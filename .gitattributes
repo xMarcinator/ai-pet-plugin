@@ -1,0 +1,3 @@
+# Check out every file exactly as committed, whatever core.autocrlf says: sh needs the launcher
+# with LF line endings, and the hook binaries must stay byte for byte.
+* -text
