@@ -1,6 +1,6 @@
 {
   "name": "aipet",
-  "version": "0.3.0-rc.1",
+  "version": "0.3.0-rc.2",
   "description": "Shows each Codex chat's status on the AiPet desktop pet. Needs the AiPet app running; does nothing otherwise.",
   "keywords": [
     "desktop-pet",
